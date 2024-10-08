@@ -1,1 +1,4 @@
-
+# Libraries to install
+pandas
+tkinker
+numpy
