@@ -1,4 +1,4 @@
-# Libraries to install
+## Libraries to install
 pandas
 tkinker
-numpy
+NumPy
